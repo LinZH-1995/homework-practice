@@ -1,0 +1,4 @@
+.list-wrapper #card-list:hover,
+.list-wrapper #line-list:hover {
+  color: #fa0 !important;
+}
