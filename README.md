@@ -27,7 +27,7 @@ A random fake user list show the random fake people that call from [RANDOM USER 
 * click ```Information``` button
 
 ### Add User To Favorite
-* click ```❤``` button - ( when it is ***empty*** )
+* click ```🤍``` button - ( when it is ***empty*** )
 
 * ***This feature might have a bug if you refresh the page. Because this [RANDOM USER GENERATOR API](https://randomuser.me/) is a random API cause can't filter whether user is in the localStorage of favorite. If you want test the feature please dont refresh the page.***
 * ***Assume that you already refresh the page. Open the DevTools and go Application page to delete the data that name "myFavorite" in localStorage then refresh the page. After done, this feature would be normal again***
